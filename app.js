@@ -35,3 +35,4 @@ if (escolhaNumero == numeroSecreto) {
 }
 
 // console.log(`Toma str template`)
+// console.log(`Teste com a ferramenta de Git do VS Code`)
