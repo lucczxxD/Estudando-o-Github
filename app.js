@@ -6,8 +6,6 @@ let escolhaNumero = prompt(`Digite um número de 1 a ${numeroMaximo}`);
 let tentativa = 1;
 // let palavraTentativa = (tentativa > 1) ? 'tentativas' : 'tentativa';
 
-// alert(numeroSecreto == escolha);
-
 if (escolhaNumero == numeroSecreto) {
     console.log(`Número secreto: ${numeroSecreto}`);
     alert('Certou parabéns. Você acertou na primeira tentativa');
